@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="dzialania">
+        <item>suma</item>
+        <item>róznica</item>
+        <item>iloczyn</item>
+        <item>iloraz</item>
+    </string-array>
 </resources>
